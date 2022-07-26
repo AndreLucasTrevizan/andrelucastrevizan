@@ -15,7 +15,7 @@
 
 <h4> I'm currently working with: </h4>
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,javascript,typescript&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,typescript&theme=light)](https://skills.thijs.gg)
 
 <h4> I'm currently learning: </h4>
 
