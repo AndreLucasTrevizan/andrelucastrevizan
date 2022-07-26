@@ -13,7 +13,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,mysql,docker,javascript,typescript,vue,php&theme=light)](https://skills.thijs.gg)
 
-<h4> I'm currently working with: </h4>
+<h4> I'm currently working: </h4>
 
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,typescript&theme=light)](https://skills.thijs.gg)
 
