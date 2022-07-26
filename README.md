@@ -13,11 +13,11 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,mysql,docker,javascript,typescript,vue,php&theme=light)](https://skills.thijs.gg)
 
-<h4> I'm current working with: </h4>
+<h4> I'm currently working with: </h4>
 
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,mongodb,javascript,typescript&theme=light)](https://skills.thijs.gg)
 
-<h4> I'm current learning: </h4>
+<h4> I'm currently learning: </h4>
 
 [![My Skills](https://skills.thijs.gg/icons?i=flutter,react&theme=light)](https://skills.thijs.gg)
 
