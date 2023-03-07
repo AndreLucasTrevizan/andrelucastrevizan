@@ -1,5 +1,7 @@
 ## Hey! I'm André Lucas Trevizan
 
+I'm happy that you're here, I hope that my projects could help you, have fun!
+
 <div align="center">
   <a href="https://github.com/andrelucastrevizan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelucastrevizan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
